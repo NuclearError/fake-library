@@ -1,0 +1,26 @@
+// Remove this once `create-react-app` supports absolute paths in TypeScript.
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "components/*": ["src/components/*"],
+            "components": ["src/components/index"],
+            "constants/*": ["src/constants/*"],
+            "constants": ["src/constants/index"],
+            "libraries/*": ["src/libraries/*"],
+            "libraries": ["src/libraries/index"],
+            "store/*": ["src/store/*"],
+            "store": ["src/store/index"],
+            "styles": ["src/styles/themes/index"],
+            "styles/*": ["src/styles/*"],
+            "theme/*": ["src/theme/*"],
+            "theme": ["src/theme/index"],
+            "types/*": ["src/types/*"],
+            "types": ["src/types/index"],
+            "utils/*": ["src/utils/*"],
+            "utils": ["src/utils/index"],
+            "validators/*": ["src/validators/*"],
+            "validators": ["src/validators/index"]
+        }
+    }
+}

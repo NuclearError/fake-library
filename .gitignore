@@ -1,0 +1,26 @@
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+node_modules/
+
+.env
+.env.*
+
+build-checkout
+build-subscription
+build
+
+# Cypress
+cypress/screenshots
+cypress/videos
+results
+.Trash-501
+
+.DS_Store
+.idea/*
+
+# Nightwatch
+tests_output/
