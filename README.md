@@ -13,4 +13,4 @@ yarn start
 
 When running the fake library on localhost, it should look something like this:
 
-![Localhost port 3001 showing the fake library with a single button](https://i.imgur.com/IEoZ3Qz.png)
+<img src="https://i.imgur.com/IEoZ3Qz.png" title="Localhost port 3001 showing the fake library with a single button" width="500" />
