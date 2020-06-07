@@ -2,6 +2,11 @@
 
 We have theme and component files. The only component we have is a `Button`.
 
+## Relevant repositories
+
+* fake-library, equivalent of our future `component-library` (real name TBC)
+* [fake-front-end](https://github.com/NuclearError/fake-front-end), equivalent of `checkout-front-end`
+
 ## Get started
 
 ```
